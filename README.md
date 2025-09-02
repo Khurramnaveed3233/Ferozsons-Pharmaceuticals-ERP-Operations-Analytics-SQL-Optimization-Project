@@ -1,11 +1,11 @@
-# 💊 Ferozsons Pharmaceuticals – SQL Database Optimization Project
+# Ferozsons Pharmaceuticals – SQL Database Optimization Project
 
 A real-world SQL database solution built for **Ferozsons Pharmaceuticals**, focusing on resolving operational inefficiencies in inventory management, order processing, and supplier coordination.
 
 
 ![feroz](https://github.com/user-attachments/assets/89867d1a-c44d-4fa3-8615-3c8183099847)
 
-## 📘 Project Overview
+##  Project Overview
 
 Ferozsons Pharmaceuticals, a prominent healthcare company, faced serious challenges due to data silos, delayed processing, and outdated supplier and inventory records. This project simulates a **real-time ERP system** using SQL Server to improve internal operations across departments such as Sales, Procurement, Finance, and Inventory.
 
@@ -17,7 +17,7 @@ The goal was to design a normalized database and implement SQL-based solutions t
 
 ---
 
-## 🚨 Business Challenges & Solutions
+##  Business Challenges & Solutions
 
 ### 1. Inaccurate Inventory Records  
 **Problem:** Inventory showed "Available" for items that were actually out of stock.  
@@ -49,7 +49,7 @@ The goal was to design a normalized database and implement SQL-based solutions t
 
 ---
 
-## 🧩 Project Components
+##  Project Components
 
 - **SQL Server Relational Database**: Includes tables for Customers, Orders, Inventory, Products, Payments, Suppliers, and Departments.
 - **Triggers and Queries**: Optimized to handle real-time updates and reporting.
@@ -57,17 +57,17 @@ The goal was to design a normalized database and implement SQL-based solutions t
 
 ---
 
-## 💡 Outcomes
+##  Outcomes
 
-- ✅ Increased fulfillment accuracy by ensuring inventory is auto-updated.
-- 🚚 Reduced order delays by surfacing unpaid or blocked transactions.
-- 🔁 Streamlined procurement with intelligent supplier selection.
-- 📊 Improved team coordination through live status dashboards.
-- 📦 Enhanced shipping workflows by alerting finance teams about unresolved dues.
+- Increased fulfillment accuracy by ensuring inventory is auto-updated.
+-  Reduced order delays by surfacing unpaid or blocked transactions.
+-  Streamlined procurement with intelligent supplier selection.
+-  Improved team coordination through live status dashboards.
+-  Enhanced shipping workflows by alerting finance teams about unresolved dues.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **SQL Server** – Database design, querying, and triggers  
 - **SSMS (SQL Server Management Studio)** – Development & testing  
@@ -77,14 +77,14 @@ The goal was to design a normalized database and implement SQL-based solutions t
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 **Khurram Naveed**  
 Data Analyst | SQL Developer | BI Enthusiast  
-📍 Arif Wala, Pakistan  
-📫 [LinkedIn](https://www.linkedin.com/in/khurram-naveed-0083851aa/) | ✉️ khurramnaveed4545@gmail.com  
+Arif Wala, Pakistan  
+[LinkedIn](https://www.linkedin.com/in/khurram-naveed-0083851aa/) | ✉️ khurramnaveed4545@gmail.com  
 
 ---
 
-⭐ *If you found this project helpful or insightful, please consider giving it a star and following my profile for more data projects.*
+ *If you found this project helpful or insightful, please consider giving it a star and following my profile for more data projects.*
 
