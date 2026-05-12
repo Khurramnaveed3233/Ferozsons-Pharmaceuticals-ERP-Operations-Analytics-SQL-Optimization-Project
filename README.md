@@ -1,5 +1,8 @@
 #  Ferozsons Pharmaceuticals – ERP Operations Analytics & SQL Optimization Project
 
+
+<img width="1983" height="793" alt="Ferozsons Pharmaceuticals" src="https://github.com/user-attachments/assets/21e73e8f-a19c-4394-8346-f5adf4e0a701" />
+
 **Role:** Data Analyst & SQL Developer  
 **Tools:** SQL Server, SSMS, SQL Queries, Triggers, ERD Modeling  
 **Domain:** Pharmaceuticals | ERP Systems | Operations Analytics  
