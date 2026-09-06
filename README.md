@@ -38,8 +38,6 @@ I moved away from flat-file tracking to a **3rd Normal Form (3NF)** relational m
 *   **Separation of Concerns:** Distinct tables for `Products` (catalog) and `Inventory` (stock levels) allowed for independent pricing updates without affecting historical transaction records.
 *   **Departmental Mapping:** Linked orders to specific departments to enable accountability tracking and internal performance analysis.
 
-*(Insert your ERD Image Here)*
-
 ---
 
 ##  Technical Implementation & Analytics
@@ -152,4 +150,3 @@ JOIN Departments d ON o.DepartmentID = d.DepartmentID;
 *   **Predictive Inventory:** Implement Python ETL pipelines to forecast stockouts based on seasonal trends
 *   **Automated Restocking:** Develop stored procedures that generate purchase orders when inventory hits reorder points
 *   **Credit Risk Scoring:** Build a customer risk model using payment history and order frequency
-```
