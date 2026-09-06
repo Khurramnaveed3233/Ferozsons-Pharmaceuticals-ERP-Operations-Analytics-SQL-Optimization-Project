@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Executive Summary
+## Executive Summary
 
 Ferozsons Pharmaceuticals faced critical visibility gaps in their legacy ERP workflow, resulting in inventory discrepancies, delayed shipments due to payment holds, and inefficient supplier procurement. 
 
@@ -17,7 +17,7 @@ I designed and implemented a normalized relational database architecture to cent
 
 ---
 
-## ⚠️ The Business Challenge
+##  The Business Challenge
 
 The organization operated with siloed data processes, leading to three core operational failures:
 
@@ -27,7 +27,7 @@ The organization operated with siloed data processes, leading to three core oper
 
 ---
 
-## 🏗️ Solution Architecture
+##  Solution Architecture
 
 ### Database Design Strategy
 
@@ -42,7 +42,7 @@ I moved away from flat-file tracking to a **3rd Normal Form (3NF)** relational m
 
 ---
 
-## 💻 Technical Implementation & Analytics
+##  Technical Implementation & Analytics
 
 ### 1. Automated Inventory Reconciliation (Trigger-Based Logic)
 
@@ -136,7 +136,7 @@ JOIN Departments d ON o.DepartmentID = d.DepartmentID;
 
 ---
 
-## 🛠️ Technical Competencies Demonstrated
+##  Technical Competencies Demonstrated
 
 *   **Database Engineering:** Relational schema design, normalization, referential integrity
 *   **Advanced T-SQL:** Window functions, CTEs, multi-table JOINs, subqueries
@@ -146,7 +146,7 @@ JOIN Departments d ON o.DepartmentID = d.DepartmentID;
 
 ---
 
-## 🚀 Future Roadmap
+##  Future Roadmap
 
 *   **Power BI Integration:** Connect this SQL backend to a live dashboard for executive monitoring
 *   **Predictive Inventory:** Implement Python ETL pipelines to forecast stockouts based on seasonal trends
