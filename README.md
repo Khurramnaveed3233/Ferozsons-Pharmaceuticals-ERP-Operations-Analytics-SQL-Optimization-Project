@@ -1,10 +1,4 @@
-Here is the rewritten project description, formatted specifically for a GitHub `README.md`.
 
-I have structured it to highlight **architectural decisions** and **business logic** rather than just listing SQL syntax. This demonstrates that you understand *why* you are writing the code, which is what hiring managers look for in mid-to-senior level candidates.
-
-***
-
-```markdown
 # Ferozsons Pharmaceuticals: ERP Data Infrastructure & Operational Analytics
 
 <img width="1983" height="793" alt="Ferozsons Pharmaceuticals ERP Dashboard" src="https://github.com/user-attachments/assets/21e73e8f-a19c-4394-8346-f5adf4e0a701" />
